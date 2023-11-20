@@ -1,0 +1,5 @@
+//USER MONITORING DASHBOARD//
+//used html,css and js//
+//list of users standing in a queue and waiting for reviewing the users//
+
+//if we click on current user...it will be changed to yes to acknowledge that the particular user has been reviewed//
